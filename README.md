@@ -6,11 +6,11 @@ It is designed for businesses, researchers, and individuals seeking automated se
  TECHNOLOGIES:
  
 -FRONTEND(CLIENT-SIDE):
-# HTML, CSS, and JavaScript
-# Uses Fetch API or AJAX to communicate with the backend in real-time.
-# Displays sentiment results dynamically without page reloads.
+ HTML, CSS, and JavaScript
+ Uses Fetch API or AJAX to communicate with the backend in real-time.
+ Displays sentiment results dynamically without page reloads.
 
 -BACKEND(SERVER-SIDE):
-# Built with Flask (Python) or Node.js (JavaScript) to handle requests.
-# NLTK (VADER), TextBlob, for sentiment analysis.
-# RESTful APIs to process text input and return sentiment scores.
+ Built with Flask (Python) or Node.js (JavaScript) to handle requests.
+ NLTK (VADER), TextBlob, for sentiment analysis.
+ RESTful APIs to process text input and return sentiment scores.
