@@ -6,11 +6,9 @@ It is designed for businesses, researchers, and individuals seeking automated se
  TECHNOLOGIES:
  
 -FRONTEND(CLIENT-SIDE):
-
- HTML, CSS, and JavaScript
+  HTML, CSS, and JavaScript
 
 -BACKEND(SERVER-SIDE):
-
- Built with Flask (Python) or Node.js (JavaScript) to handle requests.
- NLTK (VADER), TextBlob, for sentiment analysis.
- RESTful APIs 
+  Built with Flask (Python) or Node.js (JavaScript) to handle requests.
+  NLTK (VADER), TextBlob, for sentiment analysis.
+  RESTful APIs 
